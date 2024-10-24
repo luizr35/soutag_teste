@@ -86,7 +86,7 @@ puts "Preço final: #{final_price}"
 Para rodar os testes e verificar se tudo está funcionando corretamente, utilize o seguinte comando:
 
 ```bash
-rspec
+rspec price_service_spec.rb
 ```
 
 Os testes irão validar os seguintes cenários:
