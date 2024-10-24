@@ -23,7 +23,8 @@ O objetivo do projeto foi corrigir e ajustar o código para garantir que todos o
 
 2. Instale as dependências:
    ```bash
-   bundle install
+   rvm use 3.2.0
+   gem install rspec
    ```
 
 ## Estrutura do Projeto
