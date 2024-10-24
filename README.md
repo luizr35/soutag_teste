@@ -11,8 +11,8 @@ O objetivo do projeto foi corrigir e ajustar o código para garantir que todos o
 
 ## Requisitos
 
-- **Ruby**: Certifique-se de ter o Ruby instalado. Este projeto foi desenvolvido e testado com a versão Ruby >= 2.6.
-- **RSpec**: O framework de testes RSpec é utilizado para validar o comportamento da aplicação.
+- **Ruby**: Certifique-se de ter o Ruby instalado. Este projeto foi desenvolvido e testado com a versão Ruby >= 3.2.0.
+- **RSpec**: O framework de testes RSpec é utilizado para validar o comportamento da aplicação, utilizando a versao 3.13.
 
 ## Instalação
 
